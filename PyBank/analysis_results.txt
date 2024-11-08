@@ -1,0 +1,4 @@
+Summary of Analysis:
+-------
+- Total Schools: 100
+- Average Score: 85.5
