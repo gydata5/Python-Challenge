@@ -1,4 +1,4 @@
 Summary of Analysis:
 -------
-- Total Schools: 100
-- Average Score: 85.5
+- Total Months: 86
+- Average Change: -8311.11

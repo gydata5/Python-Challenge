@@ -80,8 +80,8 @@ with open(OUTPUT_PATH, "w") as txt_file:
 analysis_results = (
 f"Summary of Analysis:\n"
 f"-------\n"
-f"- Total Schools: 100\n"
-f"- Average Score: 85.5"
+f"- Total Months: 86\n"
+f"- Average Change: -8311.11"
 )
 # Step 2: Print to the terminal
 print(analysis_results)
